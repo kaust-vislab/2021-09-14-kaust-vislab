@@ -1,11 +1,9 @@
 ---
 layout: workshop      # DON'T CHANGE THIS.
 venue: "KAUST Visualization Core Lab" 
-address: "Auditorium 215 (between bldg. 2-3, level 0)"
+address: "Virtual (platform TBD)"
 country: "sa"
 language: "en"
-latitude: "22.307807"
-longitude: "39.105358"
 humandate: "15 September 2020"
 humantime: "1:00 pm  - 5:00 pm"
 startdate: 2020-09-15      
