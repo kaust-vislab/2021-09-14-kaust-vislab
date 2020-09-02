@@ -6,14 +6,14 @@ country: "sa"
 language: "en"
 latitude: "22.307807"
 longitude: "39.105358"
-humandate: "17 February 2020"
-humantime: "8:30 am  - 5:00 pm"
-startdate: 2020-02-17      
-enddate: 2020-02-17        
+humandate: "15 September 2020"
+humantime: "1:00 pm  - 5:00 pm"
+startdate: 2020-09-15      
+enddate: 2020-09-15        
 instructor: ["David R. Pugh"]
 helper: ["TBD"]
 email: ["david.pugh@kaust.edu.sa"]
-collaborative_notes: https://pad.carpentries.org/2020-02-17-kaust-vislab
+collaborative_notes: https://pad.carpentries.org/2020-09-15-kaust-vislab
 ---
 
 {% comment %} See instructions in the comments below for how to edit specific sections of this workshop template. {% endcomment %}
