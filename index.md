@@ -119,7 +119,7 @@ This block displays the date and links to Google Calendar.
 {% endif %}
 
 <p id="registration">
-  <strong>Registration:</strong> <a href="https://kaustforms.formstack.com/forms/unix_shell_data_scientists_spring_2020">Register Now!</a>
+  <strong>Registration:</strong> <a href="https://kaustforms.formstack.com/forms/unix_shell_data_scientists_fall_2020">Register Now!</a>
 </p>
 
 <p id="course-material">
