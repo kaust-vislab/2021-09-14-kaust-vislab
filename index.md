@@ -4,14 +4,14 @@ venue: "KAUST Visualization Core Lab"
 address: "Virtual"
 country: "sa"
 language: "en"
-humandate: "16 February 2021"
+humandate: "14 September 2021"
 humantime: "1:00 pm  - 5:00 pm"
-startdate: 2021-02-16      
-enddate: 2021-02-16        
+startdate: 2021-09-14      
+enddate: 2021-09-14        
 instructor: ["Dr. David R. Pugh"]
 helper: ["TBD"]
 email: ["help@vis.kaust.edu.sa"]
-collaborative_notes: https://pad.carpentries.org/2021-02-16-kaust-vislab
+collaborative_notes: https://pad.carpentries.org/2021-09-14-kaust-vislab
 ---
 
 {% comment %} See instructions in the comments below for how to edit specific sections of this workshop template. {% endcomment %}
@@ -119,7 +119,7 @@ This block displays the date and links to Google Calendar.
 {% endif %}
 
 <p id="registration">
-  <strong>Registration:</strong> <a href="https://kaustforms.formstack.com/forms/unix_shell_data_scientists_spring_2021_kaust">KAUST Affiliated</a>, <a href="https://kaustforms.formstack.com/forms/unix_shell_data_scientists_spring_2021_non_kaust">Non-KAUST Affiliated</a>
+  <strong>Registration:</strong> <a href="https://kaustforms.formstack.com/forms/unix_shell_data_scientists_fall_2021">Register Now!</a>
 </p>
 
 <p id="course-material">
